@@ -1,0 +1,150 @@
+#topbar {
+  height: 80px;
+  width: 100%;
+  margin: 0;
+  border: 3px;
+  position: relative;
+}
+
+#sidebar {
+  height: 52rem;
+  width: 20%;
+  border: 3px;
+  float: left;
+  position: relative;
+}
+
+#content {
+  height: 54rem;
+  width: 78%;
+  border: 3px;
+  border-left: 1px solid grey;
+  float: right;
+  position: relative;
+}
+
+.header img {
+  float: left;
+  width: 80px;
+  height: 60px;
+  margin-top: 0;
+  background: #555;
+  border-right: 2px;
+  position: relative;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+#topbar > div > form > div > input[type="text"]{
+  height: 3rem;
+  width: 500px;
+  border-left: 2px solid grey;
+  position: absolute;
+  left: 12%;
+  top: 25%
+}
+
+#searchbar {
+
+}
+
+#upload {
+  float: right;
+}
+
+#profile {
+  float: right;
+}
+
+#sidemenu {
+  color: grey;
+  list-style: none;
+}
+
+.videoplayer {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#videoinfoleft {
+  width: 65%;
+  height: 100px;
+  border: 3px;
+  float: left;
+  padding-bottom: 10;
+  position: relative;
+  display: inline-block;
+  margin-left: 30px;
+}
+
+#videoinforight {
+  width: 30%;
+  height: 100px;
+  border: 3px;
+  float: right;
+  padding-bottom: 8px;
+  position: relative;
+  display: inline-block;
+}
+
+#likecounter {
+  float: right;
+  margin-right: 30px;
+}
+
+#breakline {
+  border: 2px;
+  border-color: grey;
+  width: 94%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#comment1 {
+  background-color: #f1f1f4;
+  border: 3px;
+  width: 94%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  position: relative;
+  display: inline-block;
+}
+
+#comment2 {
+  width: 94%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#comment3 {
+  width: 94%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #f1f1f4;
+  position: relative;
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#breakline {
+  width: 100%;
+  height: 3px;
+  margin: 0 auto;
+  margin: 5rem 0rem 1rem 0rem;
+  background-color: #ccc;
+}
+
+#sidemenu {
+  line-height: 35px;
+}
+
+#test {
+  margin-top: 2px;
+}
