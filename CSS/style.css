@@ -64,6 +64,7 @@
 .videoplayer {
   margin-left: 30px;
   margin-right: 30px;
+  seamless="seamless"
 }
 
 #videoinfoleft {
@@ -110,6 +111,7 @@
   margin-right: 30px;
   position: relative;
   display: inline-block;
+  color: black;
 }
 
 #comment2 {
@@ -120,6 +122,7 @@
   display: inline-block;
   margin-left: 30px;
   margin-right: 30px;
+  color: black;
 }
 
 #comment3 {
@@ -131,6 +134,7 @@
   display: inline-block;
   margin-left: 30px;
   margin-right: 30px;
+  color: black;
 }
 
 #breakline {
